@@ -33,6 +33,10 @@
     {
       "name": "change-history",
       "description": "Resource Change History"
+    },
+    {
+      "name": "claml",
+      "description": "ClamL Representation"
     }
   ],
   "_pre-process-documentation": "This array of objects indicates data being converted from existing files using scripts to support dependency checking when performing continuous builds",
@@ -141,9 +145,11 @@
       "template-base": "template/layouts/layout-codesystem.html",
       "template-format": "template/layouts/layout-instance-format.html",
       "template-change-history": "template/layouts/layout-changehistory.html",
+      "template-claml": "template/layouts/layout-instance-format.html",
       "base": "{{[type]}}-{{[id]}}.html",
       "format": "{{[type]}}-{{[id]}}.{{[fmt]}}.html",
-      "change-history": "{{[type]}}-{{[id]}}.change.history.html"
+      "change-history": "{{[type]}}-{{[id]}}.change.history.html",
+      "claml": "{{[type]}}-{{[id]}}.claml.html"
     },
     "ConceptMap": {
       "template-base": "template/layouts/layout-conceptmap.html",
