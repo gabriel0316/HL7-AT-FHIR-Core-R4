@@ -1,0 +1,13 @@
+﻿{
+  "name": "hl7at.base.template",
+  "type": "fhir.template",
+  "license": "CC0-1.0",
+  "description": "Base template for Austrian FHIR IGs",
+  "author": "https://hl7.at/",
+  "canonical": "http://fhir.org/templates/fhir.base.template",
+  "base": "fhir.base.template",
+  "dependencies": {
+    "fhir.base.template": "current"
+  },
+  "version": "0.0.1"
+}

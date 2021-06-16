@@ -12,9 +12,9 @@
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
 id: HL7ATCoreProfiles
 canonical: http://hl7.at/fhir/HL7ATCoreProfiles/4.0.1
-version: 0.2.0
+version: 0.0.1
 name: HL7AustriaImplementationGuide
-title: HL7 Austria FHIR Core Implementation Guide
+title: TerminoloGit
 status: active
 publisher: HL7 Austria, TC FHIR
 contact:
@@ -28,7 +28,7 @@ fhirVersion: 4.0.1
 parameters:
   show-inherited-invariants: false
 copyrightYear: 2020+
-releaseLabel: STU1
+releaseLabel: DSTU
 
 # ╭─────────────────────────────────────────────ig.ini─────────────────────────────────────────────╮
 # │  To control the ig.ini using this config, uncomment and set the "template" property.           │

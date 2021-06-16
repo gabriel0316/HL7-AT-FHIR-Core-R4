@@ -1,0 +1,13 @@
+﻿{
+  "name": "gkl.base.template",
+  "type": "fhir.template",
+  "license": "CC0-1.0",
+  "description": "GKL",
+  "author": "http://elga.gv.at",
+  "canonical": "http://fhir.org/templates/fhir.base.template",
+  "base": "./input/hl7at_template",
+  "dependencies": {
+    "./input/hl7at_template": "unmodified"
+  },
+  "version": "0.0.1"
+}

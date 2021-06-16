@@ -1,0 +1,62 @@
+:root {
+  --ig-status-text-color: rgb(41, 41, 41); /* 1. IG Title and status text color */
+  --navbar-bg-color: #FFF; /* 2. Header container color */
+  --footer-bg-color: #333; /* 3. Footer background color*/
+  --footer-container-color: #333; /* 4. Footer container color */
+  --stripe-bg-color: #FFFFFF; /* 5. Header strip color */
+
+  --btn-hover-color: #FFF;  /* 6. Menu button hover color */
+  --btn-active-color: #FFF; /* 7. Menu button active color */
+  --btn-text-color: #333; /* 8. Menu button text color */
+
+  --publish-box-bg-color: #FFF0; /* 15. Publish box background color */
+  --publish-box-border: 0px; /* 16.  Publish box border definition */
+
+  --toc-box-bg-color: #F5F5F5; /* 17.  TOC box background color */
+  --toc-box-border: 1px solid #DDD; /* 18. TOC box border definition */
+
+  --stu-note-background-color: #f7d2d2; /* 19. (STU) Note box background color */
+  --stu-note-border-left-color: #a81010; /* 20. (STU) Note box border color */
+
+  --ig-header-color: #FFF; /* 21. Header color (sides) */
+  --ig-header-container-color: #FFF; /* 22. Header container color (center) */
+}
+
+#segment-navbar {
+  border-bottom: 1px solid #e5e5e5;
+  margin-bottom: 6px;
+}
+
+#segment-header > .container #header-logo {
+  max-width: 80px;
+  padding-top: 10px;
+  padding-left: 6px;
+}
+
+#segment-content {
+  margin-bottom: 50px;
+}
+
+#segment-footer {
+  position: fixed;
+  bottom: 0px;
+  width: -webkit-fill-available;
+}
+
+#segment-footer > .container {
+  background-color: var(--footer-container-color);
+  color: #ffffff;
+}
+
+.navbar-inverse {
+  border-bottom: 2px solid #FFF;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover {
+  border-bottom: 2px solid #da0c23;
+}
+
+#ig-status {
+  margin-left: 6px;
+}
+

@@ -1,0 +1,1360 @@
+<ClaML  xmlns:None="http://www.w3.org/1999/xhtml"  version="3.0.0">
+    <Classification xml:lang="de" xml:space="None">
+        <Meta name="resource" value="CodeSystem"/>
+        <Meta name="url" value="http://hl7.at/fhir/HL7ATCoreProfiles/4.0.1/CodeSystem/CS-HL7AT-ISO-3166-1-alpha-3"/>
+        <Meta name="description" value="Country-codes with 3 letters"/>
+        <Meta name="content" value="complete"/>
+        <Title name="CS-HL7AT-ISO-3166-1-alpha-3" version="1.0.0+20160711">ISO 3166-1 alpha 3</Title>
+        <ClassKinds>
+            <ClassKind name="code"/>
+        </ClassKinds>
+        <RubricKinds>
+            <RubricKind name="preferred"/>
+        </RubricKinds>
+        <Class code="ABW">
+            <Rubric id="display">
+                <Label>Aruba</Label>
+            </Rubric>
+        </Class>
+        <Class code="AFG">
+            <Rubric id="display">
+                <Label>Afghanistan</Label>
+            </Rubric>
+        </Class>
+        <Class code="AGO">
+            <Rubric id="display">
+                <Label>Angola</Label>
+            </Rubric>
+        </Class>
+        <Class code="AIA">
+            <Rubric id="display">
+                <Label>Anguilla</Label>
+            </Rubric>
+        </Class>
+        <Class code="ALA">
+            <Rubric id="display">
+                <Label>Åland</Label>
+            </Rubric>
+        </Class>
+        <Class code="ALB">
+            <Rubric id="display">
+                <Label>Albanien</Label>
+            </Rubric>
+        </Class>
+        <Class code="AND">
+            <Rubric id="display">
+                <Label>Andorra</Label>
+            </Rubric>
+        </Class>
+        <Class code="ANT">
+            <Rubric id="display">
+                <Label>Niederländische Antillen</Label>
+            </Rubric>
+        </Class>
+        <Class code="ARE">
+            <Rubric id="display">
+                <Label>Vereinigte Arabische Emirate</Label>
+            </Rubric>
+        </Class>
+        <Class code="ARG">
+            <Rubric id="display">
+                <Label>Argentinien</Label>
+            </Rubric>
+        </Class>
+        <Class code="ARM">
+            <Rubric id="display">
+                <Label>Armenien</Label>
+            </Rubric>
+        </Class>
+        <Class code="ASC">
+            <Rubric id="display">
+                <Label>Ascension (verwaltet von St. Helena)</Label>
+            </Rubric>
+        </Class>
+        <Class code="ASM">
+            <Rubric id="display">
+                <Label>Amerikanisch-Samoa</Label>
+            </Rubric>
+        </Class>
+        <Class code="ATA">
+            <Rubric id="display">
+                <Label>Antarktis (Sonderstatus durch Antarktis-Vertrag)</Label>
+            </Rubric>
+        </Class>
+        <Class code="ATF">
+            <Rubric id="display">
+                <Label>Französische Süd- und Antarktisgebiete</Label>
+            </Rubric>
+        </Class>
+        <Class code="ATG">
+            <Rubric id="display">
+                <Label>Antigua und Barbuda</Label>
+            </Rubric>
+        </Class>
+        <Class code="AUS">
+            <Rubric id="display">
+                <Label>Australien</Label>
+            </Rubric>
+        </Class>
+        <Class code="AUT">
+            <Rubric id="display">
+                <Label>Österreich</Label>
+            </Rubric>
+        </Class>
+        <Class code="AZE">
+            <Rubric id="display">
+                <Label>Aserbaidschan</Label>
+            </Rubric>
+        </Class>
+        <Class code="BDI">
+            <Rubric id="display">
+                <Label>Burundi</Label>
+            </Rubric>
+        </Class>
+        <Class code="BEL">
+            <Rubric id="display">
+                <Label>Belgien</Label>
+            </Rubric>
+        </Class>
+        <Class code="BEN">
+            <Rubric id="display">
+                <Label>Benin</Label>
+            </Rubric>
+        </Class>
+        <Class code="BES">
+            <Rubric id="display">
+                <Label>Bonaire, Sint Eustatius und Saba (Niederlande</Label>
+            </Rubric>
+        </Class>
+        <Class code="BFA">
+            <Rubric id="display">
+                <Label>Burkina Faso</Label>
+            </Rubric>
+        </Class>
+        <Class code="BGD">
+            <Rubric id="display">
+                <Label>Bangladesch</Label>
+            </Rubric>
+        </Class>
+        <Class code="BGR">
+            <Rubric id="display">
+                <Label>Bulgarien</Label>
+            </Rubric>
+        </Class>
+        <Class code="BHR">
+            <Rubric id="display">
+                <Label>Bahrain</Label>
+            </Rubric>
+        </Class>
+        <Class code="BHS">
+            <Rubric id="display">
+                <Label>Bahamas</Label>
+            </Rubric>
+        </Class>
+        <Class code="BIH">
+            <Rubric id="display">
+                <Label>Bosnien und Herzegowina</Label>
+            </Rubric>
+        </Class>
+        <Class code="BLM">
+            <Rubric id="display">
+                <Label>Saint-Barthélemy</Label>
+            </Rubric>
+        </Class>
+        <Class code="BLR">
+            <Rubric id="display">
+                <Label>Belarus (Weißrussland)</Label>
+            </Rubric>
+        </Class>
+        <Class code="BLZ">
+            <Rubric id="display">
+                <Label>Belize</Label>
+            </Rubric>
+        </Class>
+        <Class code="BMU">
+            <Rubric id="display">
+                <Label>Bermuda</Label>
+            </Rubric>
+        </Class>
+        <Class code="BOL">
+            <Rubric id="display">
+                <Label>Bolivien</Label>
+            </Rubric>
+        </Class>
+        <Class code="BRA">
+            <Rubric id="display">
+                <Label>Brasilien</Label>
+            </Rubric>
+        </Class>
+        <Class code="BRB">
+            <Rubric id="display">
+                <Label>Barbados</Label>
+            </Rubric>
+        </Class>
+        <Class code="BRN">
+            <Rubric id="display">
+                <Label>Brunei Darussalam</Label>
+            </Rubric>
+        </Class>
+        <Class code="BTN">
+            <Rubric id="display">
+                <Label>Bhutan</Label>
+            </Rubric>
+        </Class>
+        <Class code="BUR">
+            <Rubric id="display">
+                <Label>Burma (jetzt Myanmar)</Label>
+            </Rubric>
+        </Class>
+        <Class code="BVT">
+            <Rubric id="display">
+                <Label>Bouvetinsel</Label>
+            </Rubric>
+        </Class>
+        <Class code="BWA">
+            <Rubric id="display">
+                <Label>Botsuana</Label>
+            </Rubric>
+        </Class>
+        <Class code="CAF">
+            <Rubric id="display">
+                <Label>Zentralafrikanische Republik</Label>
+            </Rubric>
+        </Class>
+        <Class code="CAN">
+            <Rubric id="display">
+                <Label>Kanada</Label>
+            </Rubric>
+        </Class>
+        <Class code="CCK">
+            <Rubric id="display">
+                <Label>Kokosinseln</Label>
+            </Rubric>
+        </Class>
+        <Class code="CHE">
+            <Rubric id="display">
+                <Label>Schweiz (Confoederatio Helvetica)</Label>
+            </Rubric>
+        </Class>
+        <Class code="CHL">
+            <Rubric id="display">
+                <Label>Chile</Label>
+            </Rubric>
+        </Class>
+        <Class code="CHN">
+            <Rubric id="display">
+                <Label>China</Label>
+            </Rubric>
+        </Class>
+        <Class code="CIV">
+            <Rubric id="display">
+                <Label>Côte dIvoire (Elfenbeinküste)</Label>
+            </Rubric>
+        </Class>
+        <Class code="CMR">
+            <Rubric id="display">
+                <Label>Kamerun</Label>
+            </Rubric>
+        </Class>
+        <Class code="COD">
+            <Rubric id="display">
+                <Label>Kongo</Label>
+            </Rubric>
+        </Class>
+        <Class code="COG">
+            <Rubric id="display">
+                <Label>Republik Kongo</Label>
+            </Rubric>
+        </Class>
+        <Class code="COK">
+            <Rubric id="display">
+                <Label>Cookinseln</Label>
+            </Rubric>
+        </Class>
+        <Class code="COL">
+            <Rubric id="display">
+                <Label>Kolumbien</Label>
+            </Rubric>
+        </Class>
+        <Class code="COM">
+            <Rubric id="display">
+                <Label>Komoren</Label>
+            </Rubric>
+        </Class>
+        <Class code="CPT">
+            <Rubric id="display">
+                <Label>Clipperton (reserviert für ITU)</Label>
+            </Rubric>
+        </Class>
+        <Class code="CPV">
+            <Rubric id="display">
+                <Label>Kap Verde</Label>
+            </Rubric>
+        </Class>
+        <Class code="CRI">
+            <Rubric id="display">
+                <Label>Costa Rica</Label>
+            </Rubric>
+        </Class>
+        <Class code="CSK">
+            <Rubric id="display">
+                <Label>Tschechoslowakei (ehemalig)</Label>
+            </Rubric>
+        </Class>
+        <Class code="CUB">
+            <Rubric id="display">
+                <Label>Kuba</Label>
+            </Rubric>
+        </Class>
+        <Class code="CUW">
+            <Rubric id="display">
+                <Label>Curaçao</Label>
+            </Rubric>
+        </Class>
+        <Class code="CXR">
+            <Rubric id="display">
+                <Label>Weihnachtsinsel</Label>
+            </Rubric>
+        </Class>
+        <Class code="CYM">
+            <Rubric id="display">
+                <Label>Kaimaninseln</Label>
+            </Rubric>
+        </Class>
+        <Class code="CYP">
+            <Rubric id="display">
+                <Label>Zypern</Label>
+            </Rubric>
+        </Class>
+        <Class code="CZE">
+            <Rubric id="display">
+                <Label>Tschechische Republik</Label>
+            </Rubric>
+        </Class>
+        <Class code="DEU">
+            <Rubric id="display">
+                <Label>Deutschland</Label>
+            </Rubric>
+        </Class>
+        <Class code="DGA">
+            <Rubric id="display">
+                <Label>Diego Garcia (reserviert für ITU)</Label>
+            </Rubric>
+        </Class>
+        <Class code="DJI">
+            <Rubric id="display">
+                <Label>Dschibuti</Label>
+            </Rubric>
+        </Class>
+        <Class code="DMA">
+            <Rubric id="display">
+                <Label>Dominica</Label>
+            </Rubric>
+        </Class>
+        <Class code="DNK">
+            <Rubric id="display">
+                <Label>Dänemark</Label>
+            </Rubric>
+        </Class>
+        <Class code="DOM">
+            <Rubric id="display">
+                <Label>Dominikanische Republik</Label>
+            </Rubric>
+        </Class>
+        <Class code="DZA">
+            <Rubric id="display">
+                <Label>Algerien</Label>
+            </Rubric>
+        </Class>
+        <Class code="ECU">
+            <Rubric id="display">
+                <Label>Ecuador</Label>
+            </Rubric>
+        </Class>
+        <Class code="EGY">
+            <Rubric id="display">
+                <Label>Ägypten</Label>
+            </Rubric>
+        </Class>
+        <Class code="ERI">
+            <Rubric id="display">
+                <Label>Eritrea</Label>
+            </Rubric>
+        </Class>
+        <Class code="ESH">
+            <Rubric id="display">
+                <Label>Westsahara</Label>
+            </Rubric>
+        </Class>
+        <Class code="ESP">
+            <Rubric id="display">
+                <Label>Spanien</Label>
+            </Rubric>
+        </Class>
+        <Class code="EST">
+            <Rubric id="display">
+                <Label>Estland</Label>
+            </Rubric>
+        </Class>
+        <Class code="ETH">
+            <Rubric id="display">
+                <Label>Äthiopien</Label>
+            </Rubric>
+        </Class>
+        <Class code="FIN">
+            <Rubric id="display">
+                <Label>Finnland</Label>
+            </Rubric>
+        </Class>
+        <Class code="FJI">
+            <Rubric id="display">
+                <Label>Fidschi</Label>
+            </Rubric>
+        </Class>
+        <Class code="FLK">
+            <Rubric id="display">
+                <Label>Falklandinseln</Label>
+            </Rubric>
+        </Class>
+        <Class code="FRA">
+            <Rubric id="display">
+                <Label>Frankreich</Label>
+            </Rubric>
+        </Class>
+        <Class code="FRO">
+            <Rubric id="display">
+                <Label>Färöer</Label>
+            </Rubric>
+        </Class>
+        <Class code="FSM">
+            <Rubric id="display">
+                <Label>Mikronesien</Label>
+            </Rubric>
+        </Class>
+        <Class code="FXX">
+            <Rubric id="display">
+                <Label>(europ. Frankreich ohne Übersee-Départements)</Label>
+            </Rubric>
+        </Class>
+        <Class code="GAB">
+            <Rubric id="display">
+                <Label>Gabun</Label>
+            </Rubric>
+        </Class>
+        <Class code="GBR">
+            <Rubric id="display">
+                <Label>Vereinigtes Königreich Großbritannien und Nordirland</Label>
+            </Rubric>
+        </Class>
+        <Class code="GEO">
+            <Rubric id="display">
+                <Label>Georgien</Label>
+            </Rubric>
+        </Class>
+        <Class code="GGY">
+            <Rubric id="display">
+                <Label>Guernsey (Kanalinsel)</Label>
+            </Rubric>
+        </Class>
+        <Class code="GHA">
+            <Rubric id="display">
+                <Label>Ghana</Label>
+            </Rubric>
+        </Class>
+        <Class code="GIB">
+            <Rubric id="display">
+                <Label>Gibraltar</Label>
+            </Rubric>
+        </Class>
+        <Class code="GIN">
+            <Rubric id="display">
+                <Label>Guinea</Label>
+            </Rubric>
+        </Class>
+        <Class code="GLP">
+            <Rubric id="display">
+                <Label>Guadeloupe</Label>
+            </Rubric>
+        </Class>
+        <Class code="GMB">
+            <Rubric id="display">
+                <Label>Gambia</Label>
+            </Rubric>
+        </Class>
+        <Class code="GNB">
+            <Rubric id="display">
+                <Label>Guinea-Bissau</Label>
+            </Rubric>
+        </Class>
+        <Class code="GNQ">
+            <Rubric id="display">
+                <Label>Äquatorialguinea</Label>
+            </Rubric>
+        </Class>
+        <Class code="GRC">
+            <Rubric id="display">
+                <Label>Griechenland</Label>
+            </Rubric>
+        </Class>
+        <Class code="GRD">
+            <Rubric id="display">
+                <Label>Grenada</Label>
+            </Rubric>
+        </Class>
+        <Class code="GRL">
+            <Rubric id="display">
+                <Label>Grönland</Label>
+            </Rubric>
+        </Class>
+        <Class code="GTM">
+            <Rubric id="display">
+                <Label>Guatemala</Label>
+            </Rubric>
+        </Class>
+        <Class code="GUF">
+            <Rubric id="display">
+                <Label>Französisch-Guayana</Label>
+            </Rubric>
+        </Class>
+        <Class code="GUM">
+            <Rubric id="display">
+                <Label>Guam</Label>
+            </Rubric>
+        </Class>
+        <Class code="GUY">
+            <Rubric id="display">
+                <Label>Guyana</Label>
+            </Rubric>
+        </Class>
+        <Class code="HKG">
+            <Rubric id="display">
+                <Label>Hongkong</Label>
+            </Rubric>
+        </Class>
+        <Class code="HMD">
+            <Rubric id="display">
+                <Label>Heard- und McDonald-Inseln</Label>
+            </Rubric>
+        </Class>
+        <Class code="HND">
+            <Rubric id="display">
+                <Label>Honduras</Label>
+            </Rubric>
+        </Class>
+        <Class code="HRV">
+            <Rubric id="display">
+                <Label>Kroatien</Label>
+            </Rubric>
+        </Class>
+        <Class code="HTI">
+            <Rubric id="display">
+                <Label>Haiti</Label>
+            </Rubric>
+        </Class>
+        <Class code="HUN">
+            <Rubric id="display">
+                <Label>Ungarn</Label>
+            </Rubric>
+        </Class>
+        <Class code="IDN">
+            <Rubric id="display">
+                <Label>Indonesien</Label>
+            </Rubric>
+        </Class>
+        <Class code="IMN">
+            <Rubric id="display">
+                <Label>Insel Man</Label>
+            </Rubric>
+        </Class>
+        <Class code="IND">
+            <Rubric id="display">
+                <Label>Indien</Label>
+            </Rubric>
+        </Class>
+        <Class code="IOT">
+            <Rubric id="display">
+                <Label>Britisches Territorium im Indischen Ozean</Label>
+            </Rubric>
+        </Class>
+        <Class code="IRL">
+            <Rubric id="display">
+                <Label>Irland</Label>
+            </Rubric>
+        </Class>
+        <Class code="IRN">
+            <Rubric id="display">
+                <Label>Iran</Label>
+            </Rubric>
+        </Class>
+        <Class code="IRQ">
+            <Rubric id="display">
+                <Label>Irak</Label>
+            </Rubric>
+        </Class>
+        <Class code="ISL">
+            <Rubric id="display">
+                <Label>Island</Label>
+            </Rubric>
+        </Class>
+        <Class code="ISR">
+            <Rubric id="display">
+                <Label>Israel</Label>
+            </Rubric>
+        </Class>
+        <Class code="ITA">
+            <Rubric id="display">
+                <Label>Italien</Label>
+            </Rubric>
+        </Class>
+        <Class code="JAM">
+            <Rubric id="display">
+                <Label>Jamaika</Label>
+            </Rubric>
+        </Class>
+        <Class code="JEY">
+            <Rubric id="display">
+                <Label>Jersey (Kanalinsel)</Label>
+            </Rubric>
+        </Class>
+        <Class code="JOR">
+            <Rubric id="display">
+                <Label>Jordanien</Label>
+            </Rubric>
+        </Class>
+        <Class code="JPN">
+            <Rubric id="display">
+                <Label>Japan</Label>
+            </Rubric>
+        </Class>
+        <Class code="KAZ">
+            <Rubric id="display">
+                <Label>Kasachstan</Label>
+            </Rubric>
+        </Class>
+        <Class code="KEN">
+            <Rubric id="display">
+                <Label>Kenia</Label>
+            </Rubric>
+        </Class>
+        <Class code="KGZ">
+            <Rubric id="display">
+                <Label>Kirgisistan</Label>
+            </Rubric>
+        </Class>
+        <Class code="KHM">
+            <Rubric id="display">
+                <Label>Kambodscha</Label>
+            </Rubric>
+        </Class>
+        <Class code="KIR">
+            <Rubric id="display">
+                <Label>Kiribati</Label>
+            </Rubric>
+        </Class>
+        <Class code="KNA">
+            <Rubric id="display">
+                <Label>St. Kitts und Nevis</Label>
+            </Rubric>
+        </Class>
+        <Class code="KOR">
+            <Rubric id="display">
+                <Label>Korea</Label>
+            </Rubric>
+        </Class>
+        <Class code="KOS">
+            <Rubric id="display">
+                <Label>Kosovo, Republik</Label>
+            </Rubric>
+        </Class>
+        <Class code="KWT">
+            <Rubric id="display">
+                <Label>Kuwait</Label>
+            </Rubric>
+        </Class>
+        <Class code="LAO">
+            <Rubric id="display">
+                <Label>Laos</Label>
+            </Rubric>
+        </Class>
+        <Class code="LBN">
+            <Rubric id="display">
+                <Label>Libanon</Label>
+            </Rubric>
+        </Class>
+        <Class code="LBR">
+            <Rubric id="display">
+                <Label>Liberia</Label>
+            </Rubric>
+        </Class>
+        <Class code="LBY">
+            <Rubric id="display">
+                <Label>Libysch-Arabische Dschamahirija (Libyen)</Label>
+            </Rubric>
+        </Class>
+        <Class code="LCA">
+            <Rubric id="display">
+                <Label>St. Lucia</Label>
+            </Rubric>
+        </Class>
+        <Class code="LIE">
+            <Rubric id="display">
+                <Label>Liechtenstein</Label>
+            </Rubric>
+        </Class>
+        <Class code="LKA">
+            <Rubric id="display">
+                <Label>Sri Lanka</Label>
+            </Rubric>
+        </Class>
+        <Class code="LSO">
+            <Rubric id="display">
+                <Label>Lesotho</Label>
+            </Rubric>
+        </Class>
+        <Class code="LTU">
+            <Rubric id="display">
+                <Label>Litauen</Label>
+            </Rubric>
+        </Class>
+        <Class code="LUX">
+            <Rubric id="display">
+                <Label>Luxemburg</Label>
+            </Rubric>
+        </Class>
+        <Class code="LVA">
+            <Rubric id="display">
+                <Label>Lettland</Label>
+            </Rubric>
+        </Class>
+        <Class code="MAC">
+            <Rubric id="display">
+                <Label>Macao</Label>
+            </Rubric>
+        </Class>
+        <Class code="MAF">
+            <Rubric id="display">
+                <Label>Saint-Martin (franz. Teil)</Label>
+            </Rubric>
+        </Class>
+        <Class code="MAR">
+            <Rubric id="display">
+                <Label>Marokko</Label>
+            </Rubric>
+        </Class>
+        <Class code="MCO">
+            <Rubric id="display">
+                <Label>Monaco</Label>
+            </Rubric>
+        </Class>
+        <Class code="MDA">
+            <Rubric id="display">
+                <Label>Moldawien (Republik Moldau)</Label>
+            </Rubric>
+        </Class>
+        <Class code="MDG">
+            <Rubric id="display">
+                <Label>Madagaskar</Label>
+            </Rubric>
+        </Class>
+        <Class code="MDV">
+            <Rubric id="display">
+                <Label>Malediven</Label>
+            </Rubric>
+        </Class>
+        <Class code="MEX">
+            <Rubric id="display">
+                <Label>Mexiko</Label>
+            </Rubric>
+        </Class>
+        <Class code="MHL">
+            <Rubric id="display">
+                <Label>Marshallinseln</Label>
+            </Rubric>
+        </Class>
+        <Class code="MKD">
+            <Rubric id="display">
+                <Label>Mazedonien</Label>
+            </Rubric>
+        </Class>
+        <Class code="MLI">
+            <Rubric id="display">
+                <Label>Mali</Label>
+            </Rubric>
+        </Class>
+        <Class code="MLT">
+            <Rubric id="display">
+                <Label>Malta</Label>
+            </Rubric>
+        </Class>
+        <Class code="MMR">
+            <Rubric id="display">
+                <Label>Myanmar (Burma)</Label>
+            </Rubric>
+        </Class>
+        <Class code="MNE">
+            <Rubric id="display">
+                <Label>Montenegro</Label>
+            </Rubric>
+        </Class>
+        <Class code="MNG">
+            <Rubric id="display">
+                <Label>Mongolei</Label>
+            </Rubric>
+        </Class>
+        <Class code="MNP">
+            <Rubric id="display">
+                <Label>Nördliche Marianen</Label>
+            </Rubric>
+        </Class>
+        <Class code="MOZ">
+            <Rubric id="display">
+                <Label>Mosambik</Label>
+            </Rubric>
+        </Class>
+        <Class code="MRT">
+            <Rubric id="display">
+                <Label>Mauretanien</Label>
+            </Rubric>
+        </Class>
+        <Class code="MSR">
+            <Rubric id="display">
+                <Label>Montserrat</Label>
+            </Rubric>
+        </Class>
+        <Class code="MTQ">
+            <Rubric id="display">
+                <Label>Martinique</Label>
+            </Rubric>
+        </Class>
+        <Class code="MUS">
+            <Rubric id="display">
+                <Label>Mauritius</Label>
+            </Rubric>
+        </Class>
+        <Class code="MWI">
+            <Rubric id="display">
+                <Label>Malawi</Label>
+            </Rubric>
+        </Class>
+        <Class code="MYS">
+            <Rubric id="display">
+                <Label>Malaysia</Label>
+            </Rubric>
+        </Class>
+        <Class code="MYT">
+            <Rubric id="display">
+                <Label>Mayotte</Label>
+            </Rubric>
+        </Class>
+        <Class code="NAM">
+            <Rubric id="display">
+                <Label>Namibia</Label>
+            </Rubric>
+        </Class>
+        <Class code="NCL">
+            <Rubric id="display">
+                <Label>Neukaledonien</Label>
+            </Rubric>
+        </Class>
+        <Class code="NER">
+            <Rubric id="display">
+                <Label>Niger</Label>
+            </Rubric>
+        </Class>
+        <Class code="NFK">
+            <Rubric id="display">
+                <Label>Norfolkinsel</Label>
+            </Rubric>
+        </Class>
+        <Class code="NGA">
+            <Rubric id="display">
+                <Label>Nigeria</Label>
+            </Rubric>
+        </Class>
+        <Class code="NIC">
+            <Rubric id="display">
+                <Label>Nicaragua</Label>
+            </Rubric>
+        </Class>
+        <Class code="NIU">
+            <Rubric id="display">
+                <Label>Niue</Label>
+            </Rubric>
+        </Class>
+        <Class code="NLD">
+            <Rubric id="display">
+                <Label>Niederlande</Label>
+            </Rubric>
+        </Class>
+        <Class code="NOR">
+            <Rubric id="display">
+                <Label>Norwegen</Label>
+            </Rubric>
+        </Class>
+        <Class code="NPL">
+            <Rubric id="display">
+                <Label>Nepal</Label>
+            </Rubric>
+        </Class>
+        <Class code="NRU">
+            <Rubric id="display">
+                <Label>Nauru</Label>
+            </Rubric>
+        </Class>
+        <Class code="NTZ">
+            <Rubric id="display">
+                <Label>Neutrale Zone (Saudi-Arabien und Irak)</Label>
+            </Rubric>
+        </Class>
+        <Class code="NZL">
+            <Rubric id="display">
+                <Label>Neuseeland</Label>
+            </Rubric>
+        </Class>
+        <Class code="OMN">
+            <Rubric id="display">
+                <Label>Oman</Label>
+            </Rubric>
+        </Class>
+        <Class code="PAK">
+            <Rubric id="display">
+                <Label>Pakistan</Label>
+            </Rubric>
+        </Class>
+        <Class code="PAN">
+            <Rubric id="display">
+                <Label>Panama</Label>
+            </Rubric>
+        </Class>
+        <Class code="PCN">
+            <Rubric id="display">
+                <Label>Pitcairninseln</Label>
+            </Rubric>
+        </Class>
+        <Class code="PER">
+            <Rubric id="display">
+                <Label>Peru</Label>
+            </Rubric>
+        </Class>
+        <Class code="PHL">
+            <Rubric id="display">
+                <Label>Philippinen</Label>
+            </Rubric>
+        </Class>
+        <Class code="PLW">
+            <Rubric id="display">
+                <Label>Palau</Label>
+            </Rubric>
+        </Class>
+        <Class code="PNG">
+            <Rubric id="display">
+                <Label>Papua-Neuguinea</Label>
+            </Rubric>
+        </Class>
+        <Class code="POL">
+            <Rubric id="display">
+                <Label>Polen</Label>
+            </Rubric>
+        </Class>
+        <Class code="PRI">
+            <Rubric id="display">
+                <Label>Puerto Rico</Label>
+            </Rubric>
+        </Class>
+        <Class code="PRK">
+            <Rubric id="display">
+                <Label>Korea</Label>
+            </Rubric>
+        </Class>
+        <Class code="PRT">
+            <Rubric id="display">
+                <Label>Portugal</Label>
+            </Rubric>
+        </Class>
+        <Class code="PRY">
+            <Rubric id="display">
+                <Label>Paraguay</Label>
+            </Rubric>
+        </Class>
+        <Class code="PSE">
+            <Rubric id="display">
+                <Label>Palästinensische Autonomiegebiete</Label>
+            </Rubric>
+        </Class>
+        <Class code="PYF">
+            <Rubric id="display">
+                <Label>Französisch-Polynesien</Label>
+            </Rubric>
+        </Class>
+        <Class code="QAT">
+            <Rubric id="display">
+                <Label>Katar</Label>
+            </Rubric>
+        </Class>
+        <Class code="REU">
+            <Rubric id="display">
+                <Label>Réunion</Label>
+            </Rubric>
+        </Class>
+        <Class code="ROU">
+            <Rubric id="display">
+                <Label>Rumänien</Label>
+            </Rubric>
+        </Class>
+        <Class code="RUS">
+            <Rubric id="display">
+                <Label>Russische Föderation</Label>
+            </Rubric>
+        </Class>
+        <Class code="RWA">
+            <Rubric id="display">
+                <Label>Ruanda</Label>
+            </Rubric>
+        </Class>
+        <Class code="SAU">
+            <Rubric id="display">
+                <Label>Saudi-Arabien</Label>
+            </Rubric>
+        </Class>
+        <Class code="SCG">
+            <Rubric id="display">
+                <Label>Serbien und Montenegro (ehemalig)</Label>
+            </Rubric>
+        </Class>
+        <Class code="SDN">
+            <Rubric id="display">
+                <Label>Sudan</Label>
+            </Rubric>
+        </Class>
+        <Class code="SEN">
+            <Rubric id="display">
+                <Label>Senegal</Label>
+            </Rubric>
+        </Class>
+        <Class code="SGP">
+            <Rubric id="display">
+                <Label>Singapur</Label>
+            </Rubric>
+        </Class>
+        <Class code="SGS">
+            <Rubric id="display">
+                <Label>Südgeorgien und die Südlichen Sandwichinseln</Label>
+            </Rubric>
+        </Class>
+        <Class code="SHN">
+            <Rubric id="display">
+                <Label>St. Helena</Label>
+            </Rubric>
+        </Class>
+        <Class code="SJM">
+            <Rubric id="display">
+                <Label>Svalbard und Jan Mayen</Label>
+            </Rubric>
+        </Class>
+        <Class code="SLB">
+            <Rubric id="display">
+                <Label>Salomonen</Label>
+            </Rubric>
+        </Class>
+        <Class code="SLE">
+            <Rubric id="display">
+                <Label>Sierra Leone</Label>
+            </Rubric>
+        </Class>
+        <Class code="SLV">
+            <Rubric id="display">
+                <Label>El Salvador</Label>
+            </Rubric>
+        </Class>
+        <Class code="SMR">
+            <Rubric id="display">
+                <Label>San Marino</Label>
+            </Rubric>
+        </Class>
+        <Class code="SOM">
+            <Rubric id="display">
+                <Label>Somalia</Label>
+            </Rubric>
+        </Class>
+        <Class code="SPM">
+            <Rubric id="display">
+                <Label>Saint-Pierre und Miquelon</Label>
+            </Rubric>
+        </Class>
+        <Class code="SRB">
+            <Rubric id="display">
+                <Label>Serbien</Label>
+            </Rubric>
+        </Class>
+        <Class code="SSD">
+            <Rubric id="display">
+                <Label>Südsudan</Label>
+            </Rubric>
+        </Class>
+        <Class code="STP">
+            <Rubric id="display">
+                <Label>São Tomé und Príncipe</Label>
+            </Rubric>
+        </Class>
+        <Class code="SUN">
+            <Rubric id="display">
+                <Label>UdSSR (jetzt: Russische Föderation)</Label>
+            </Rubric>
+        </Class>
+        <Class code="SUR">
+            <Rubric id="display">
+                <Label>Suriname</Label>
+            </Rubric>
+        </Class>
+        <Class code="SVK">
+            <Rubric id="display">
+                <Label>Slowakei</Label>
+            </Rubric>
+        </Class>
+        <Class code="SVN">
+            <Rubric id="display">
+                <Label>Slowenien</Label>
+            </Rubric>
+        </Class>
+        <Class code="SWE">
+            <Rubric id="display">
+                <Label>Schweden</Label>
+            </Rubric>
+        </Class>
+        <Class code="SWZ">
+            <Rubric id="display">
+                <Label>Swasiland</Label>
+            </Rubric>
+        </Class>
+        <Class code="SXM">
+            <Rubric id="display">
+                <Label>Sint Maarten (niederl. Teil)</Label>
+            </Rubric>
+        </Class>
+        <Class code="SYC">
+            <Rubric id="display">
+                <Label>Seychellen</Label>
+            </Rubric>
+        </Class>
+        <Class code="SYR">
+            <Rubric id="display">
+                <Label>Syrien</Label>
+            </Rubric>
+        </Class>
+        <Class code="TAA">
+            <Rubric id="display">
+                <Label>Tristan da Cunha (verwaltet von St. Helena)</Label>
+            </Rubric>
+        </Class>
+        <Class code="TCA">
+            <Rubric id="display">
+                <Label>Turks- und Caicosinseln</Label>
+            </Rubric>
+        </Class>
+        <Class code="TCD">
+            <Rubric id="display">
+                <Label>Tschad</Label>
+            </Rubric>
+        </Class>
+        <Class code="TGO">
+            <Rubric id="display">
+                <Label>Togo</Label>
+            </Rubric>
+        </Class>
+        <Class code="THA">
+            <Rubric id="display">
+                <Label>Thailand</Label>
+            </Rubric>
+        </Class>
+        <Class code="TJK">
+            <Rubric id="display">
+                <Label>Tadschikistan</Label>
+            </Rubric>
+        </Class>
+        <Class code="TKL">
+            <Rubric id="display">
+                <Label>Tokelau</Label>
+            </Rubric>
+        </Class>
+        <Class code="TKM">
+            <Rubric id="display">
+                <Label>Turkmenistan</Label>
+            </Rubric>
+        </Class>
+        <Class code="TLS">
+            <Rubric id="display">
+                <Label>Osttimor (Timor-Leste)</Label>
+            </Rubric>
+        </Class>
+        <Class code="TMP">
+            <Rubric id="display">
+                <Label>Osttimor (alt)</Label>
+            </Rubric>
+        </Class>
+        <Class code="TON">
+            <Rubric id="display">
+                <Label>Tonga</Label>
+            </Rubric>
+        </Class>
+        <Class code="TTO">
+            <Rubric id="display">
+                <Label>Trinidad und Tobago</Label>
+            </Rubric>
+        </Class>
+        <Class code="TUN">
+            <Rubric id="display">
+                <Label>Tunesien</Label>
+            </Rubric>
+        </Class>
+        <Class code="TUR">
+            <Rubric id="display">
+                <Label>Türkei</Label>
+            </Rubric>
+        </Class>
+        <Class code="TUV">
+            <Rubric id="display">
+                <Label>Tuvalu</Label>
+            </Rubric>
+        </Class>
+        <Class code="TWN">
+            <Rubric id="display">
+                <Label>Republik China (Taiwan)</Label>
+            </Rubric>
+        </Class>
+        <Class code="TZA">
+            <Rubric id="display">
+                <Label>Tansania</Label>
+            </Rubric>
+        </Class>
+        <Class code="UGA">
+            <Rubric id="display">
+                <Label>Uganda</Label>
+            </Rubric>
+        </Class>
+        <Class code="UKR">
+            <Rubric id="display">
+                <Label>Ukraine</Label>
+            </Rubric>
+        </Class>
+        <Class code="UMI">
+            <Rubric id="display">
+                <Label>United States Minor Outlying Islands</Label>
+            </Rubric>
+        </Class>
+        <Class code="URY">
+            <Rubric id="display">
+                <Label>Uruguay</Label>
+            </Rubric>
+        </Class>
+        <Class code="USA">
+            <Rubric id="display">
+                <Label>Vereinigte Staaten von Amerika</Label>
+            </Rubric>
+        </Class>
+        <Class code="UZB">
+            <Rubric id="display">
+                <Label>Usbekistan</Label>
+            </Rubric>
+        </Class>
+        <Class code="VAT">
+            <Rubric id="display">
+                <Label>Vatikanstadt</Label>
+            </Rubric>
+        </Class>
+        <Class code="VCT">
+            <Rubric id="display">
+                <Label>St. Vincent und die Grenadinen</Label>
+            </Rubric>
+        </Class>
+        <Class code="VEN">
+            <Rubric id="display">
+                <Label>Venezuela</Label>
+            </Rubric>
+        </Class>
+        <Class code="VGB">
+            <Rubric id="display">
+                <Label>Britische Jungferninseln</Label>
+            </Rubric>
+        </Class>
+        <Class code="VIR">
+            <Rubric id="display">
+                <Label>Amerikanische Jungferninseln</Label>
+            </Rubric>
+        </Class>
+        <Class code="VNM">
+            <Rubric id="display">
+                <Label>Vietnam</Label>
+            </Rubric>
+        </Class>
+        <Class code="VUT">
+            <Rubric id="display">
+                <Label>Vanuatu</Label>
+            </Rubric>
+        </Class>
+        <Class code="WLF">
+            <Rubric id="display">
+                <Label>Wallis und Futuna</Label>
+            </Rubric>
+        </Class>
+        <Class code="WSM">
+            <Rubric id="display">
+                <Label>Samoa</Label>
+            </Rubric>
+        </Class>
+        <Class code="XKS">
+            <Rubric id="display">
+                <Label>Kosovo</Label>
+            </Rubric>
+        </Class>
+        <Class code="XXA">
+            <Rubric id="display">
+                <Label>Staatenlos</Label>
+            </Rubric>
+        </Class>
+        <Class code="XXB">
+            <Rubric id="display">
+                <Label>Flüchtling gemäß Genfer Flüchtlingskonvention (GFK) von 1951</Label>
+            </Rubric>
+        </Class>
+        <Class code="XXC">
+            <Rubric id="display">
+                <Label>Anderer Flüchtling</Label>
+            </Rubric>
+        </Class>
+        <Class code="XXX">
+            <Rubric id="display">
+                <Label>Unbekannt</Label>
+            </Rubric>
+        </Class>
+        <Class code="YEM">
+            <Rubric id="display">
+                <Label>Jemen</Label>
+            </Rubric>
+        </Class>
+        <Class code="YUG">
+            <Rubric id="display">
+                <Label>Jugoslawien (ehemalig)</Label>
+            </Rubric>
+        </Class>
+        <Class code="ZAF">
+            <Rubric id="display">
+                <Label>Südafrika</Label>
+            </Rubric>
+        </Class>
+        <Class code="ZAR">
+            <Rubric id="display">
+                <Label>Zaire (jetzt Demokratische Republik Kongo)</Label>
+            </Rubric>
+        </Class>
+        <Class code="ZMB">
+            <Rubric id="display">
+                <Label>Sambia</Label>
+            </Rubric>
+        </Class>
+        <Class code="ZWE">
+            <Rubric id="display">
+                <Label>Simbabwe</Label>
+            </Rubric>
+        </Class>
+    </Classification>
+</ClaML>
